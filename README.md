@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
