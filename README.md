@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
