@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1260-shift-2d-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
