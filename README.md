@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
