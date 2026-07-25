@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
