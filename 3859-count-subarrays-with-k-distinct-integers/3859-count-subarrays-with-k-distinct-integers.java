@@ -12,42 +12,42 @@ class Solution {
         this.k = k;
         this.m = m;
 
-        return helper(k) - helper(k + 1);
+        return solve(k) - solve(k + 1);
     }
 
-    private long helper(int limit) {
-        Map<Integer, Integer> freq = new HashMap<>();
+    private long solve(int limit) {
+        Map<Integer, Integer> map = new HashMap<>();
 
         long ans = 0;
         int left = 0;
-        int qualified = 0;
+        int valid = 0;
 
         for (int x : nums) {
 
-            int count = freq.getOrDefault(x, 0) + 1;
-            freq.put(x, count);
+            int count = map.getOrDefault(x, 0) + 1;
+            map.put(x, count);
 
             if (count == m) {
-                qualified++;
+                valid++;
             }
 
-            while (freq.size() >= limit && qualified >= k) {
+            while (map.size() >= limit && valid >= k) {
                 int y = nums[left++];
 
-                int c = freq.get(y) - 1;
+                int c = map.get(y) - 1;
 
                 if (c == m - 1) {
-                    qualified--;
+                    valid--;
                 }
 
                 if (c == 0) {
-                    freq.remove(y);
+                    map.remove(y);
                 } else {
-                    freq.put(y, c);
+                    map.put(y, c);
                 }
             }
 
-            ans += left;
+   ans += left;
         }
 
         return ans;
