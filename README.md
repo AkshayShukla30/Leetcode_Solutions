@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
