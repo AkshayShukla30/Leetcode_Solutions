@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
