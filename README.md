@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
