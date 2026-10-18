@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1563-stone-game-v](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -517,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
@@ -566,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -589,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -629,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -703,4 +712,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
