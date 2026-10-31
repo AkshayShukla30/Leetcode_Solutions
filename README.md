@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
