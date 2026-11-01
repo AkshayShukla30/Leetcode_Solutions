@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
