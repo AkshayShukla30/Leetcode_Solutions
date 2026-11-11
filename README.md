@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
