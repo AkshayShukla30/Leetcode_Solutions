@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/akshayshukla466/Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
